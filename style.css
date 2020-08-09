@@ -166,13 +166,13 @@ body {
   text-transform: uppercase;
   border-radius: 4px;
   background-color: #288be6;
-  color: #ffffff;
+  color: #000000;
 }
 
 .page-footer {
   padding: 40px 0;
   background-color: #00417d;
-  color: #ffffff;
+  color: #000000;
 }
 
 .page-footer a {
